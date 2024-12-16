@@ -7,7 +7,7 @@ import { Button } from "./MovingBorders";
 
 type Card = {
   id: number;
-  content: JSX.Element | React.ReactNode | string;
+  content: Element | React.ReactNode | string;
   className: string;
   thumbnail: string;
 };
@@ -120,7 +120,7 @@ const SelectedCard = ({ selected }: { selected: Card | null }) => {
         }}
         className="relative px-8 pb-4 z-[70]"
       >
-        {selected?.content}
+     
       </motion.div>
     </div>
   );
