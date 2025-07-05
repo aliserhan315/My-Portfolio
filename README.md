@@ -18,13 +18,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https:https://github.com/aliserhan315" target="_blank" rel="noreferrer">
+  <a href="https://github.com/aliserhan315" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https:[//www.linkedin.com/in/ali-serhan](https://www.linkedin.com/in/ali-serhan1/)" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ali-serhan1/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https:[//www.instagram.com/ali.serhan.dev](https://www.instagram.com/aliserhan315/)" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/aliserhan315/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
@@ -42,8 +42,8 @@ I believe in writing clean code, following design patterns, and building user-fr
 ### 📺 Latest Projects
 
 - 🔥 [Tail-Pix-AI](https://github.com/aliserhan315/Tail-Pix-AI) — AI Image Generator & Community
-- 🎬 [Cinema Admin Dashboard]((https://github.com/aliserhan315/Cinema-platform)) — Full-featured movie management system
-- 📖 [Intervuai]((https://github.com/aliserhan315/intervuAi)) — AI Intervue platform that gives scores and tips
+- 🎬 [Cinema Admin Dashboard](https://github.com/aliserhan315/Cinema-platform) — Full-featured movie management system
+- 📖 [Intervuai](https://github.com/aliserhan315/intervuAi) — AI Intervue platform that gives scores and tips
 - 📱[Tetherin](https://github.com/aliserhan315/socialmediaapp) — Full-featured social media platform
 
 ---
