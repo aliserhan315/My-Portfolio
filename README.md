@@ -22,10 +22,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
   <a href="https:[//www.linkedin.com/in/ali-serhan](https://www.linkedin.com/in/ali-serhan1/)" target="_blank" rel="noreferrer">
-    <img src="" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   <a href="https:[//www.instagram.com/ali.serhan.dev](https://www.instagram.com/aliserhan315/)" target="_blank" rel="noreferrer">
-    <img src="" width="32" height="32" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
 
@@ -41,9 +41,10 @@ I believe in writing clean code, following design patterns, and building user-fr
 
 ### 📺 Latest Projects
 
-- 🔥 [Prompt Verse AI](https://github.com/NinjaCoder8/prompt-verse-ai) — AI Image Generator & Community
-- 🎬 [Cinema Admin Dashboard](https://github.com/NinjaCoder8/movie-dashboard) — Full-featured movie management system
-- 📖 [Article Server](https://github.com/NinjaCoder8/article-server) — PHP MVC Blog with Category CRUD
+- 🔥 [Tail-Pix-AI](https://github.com/aliserhan315/Tail-Pix-AI) — AI Image Generator & Community
+- 🎬 [Cinema Admin Dashboard]((https://github.com/aliserhan315/Cinema-platform)) — Full-featured movie management system
+- 📖 [Intervuai]((https://github.com/aliserhan315/intervuAi)) — AI Intervue platform that gives scores and tips
+- 📱[Tetherin](https://github.com/aliserhan315/socialmediaapp) — Full-featured social media platform
 
 ---
 
